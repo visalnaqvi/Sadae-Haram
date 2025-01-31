@@ -26,21 +26,21 @@ export default function Home() {
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
         <main className={styles.main}>
-          <Image
+          {/* <Image
             className={styles.logo}
             src="/next.svg"
             alt="Next.js logo"
             width={180}
             height={38}
             priority
-          />
+          /> */}
 
           <div className={styles.ctas}>
             <p>Domain Available to sell.</p>
             <p>Email: rajiulsingh00@gmail.com</p>
           </div>
         </main>
-        <footer className={styles.footer}>
+        {/* <footer className={styles.footer}>
           <a
             href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             target="_blank"
@@ -83,7 +83,7 @@ export default function Home() {
             />
             Go to nextjs.org →
           </a>
-        </footer>
+        </footer> */}
       </div>
     </>
   );
