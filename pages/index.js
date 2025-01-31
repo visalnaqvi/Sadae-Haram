@@ -36,7 +36,7 @@ export default function Home() {
           /> */}
 
           <div className={styles.ctas}>
-            <p>Domain Available to sell.</p>
+            <p>Domain Available to sell @ Rs 15,000/- only.</p><br></br>
             <p>Email: rajiulsingh00@gmail.com</p>
           </div>
         </main>
