@@ -81,6 +81,10 @@
   font-weight: 500;
 }
 
+.ctas p{
+  font-size: 30px;
+}
+
 a.primary {
   background: var(--foreground);
   color: var(--background);
